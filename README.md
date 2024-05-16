@@ -65,7 +65,8 @@ Bank Customer Churn Analysis. Made with Power BI.
 ### Suggestions for What the Bank Should Continue Doing
 
 1. **Credit Card Offerings**
-   - With 70% of customers owning credit cards, the bank's credit card products are clearly popular and widely adopted. The bank should continue promoting these offerings, possibly introducing tiered benefits to cater to different customer segments.
+   - With 70% of customers owning credit cards, the bank's credit card products are clearly popular and widely adopted.
+   - Continue promoting these offerings, possibly introducing tiered benefits to cater to different customer segments.
 
 2. **Encourage Customers to Sign Up for Only 1 or 2 Products**
    - Customers with a single product or 2 products have the highest retention rates.
