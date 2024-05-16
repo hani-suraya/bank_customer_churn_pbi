@@ -11,7 +11,7 @@ Bank Customer Churn Analysis. Made with Power BI.
 - **Customer Activity and Product Usage**
   - Active customers: 51%
   - Credit card ownership: 70%
-  - Product usage: Product 1 (most used), followed by products 2, 3, and 4
+  - Product usage: Highest number of customers using only 1 product, followed by 2, 3 and 4 products.
 
 - **Churn Overview**
   - Churn rate: 20%
@@ -19,13 +19,13 @@ Bank Customer Churn Analysis. Made with Power BI.
   - Country of churners: Similar numbers in France and Germany, lower in Spain
   - Credit card ownership among churners: 70% own credit cards
   - Activity status among churners: 63% not active
-  - Product usage among churners: Highest for product 1, followed by 2, 3 and 4.
+  - Product usage among churners: Highest number of churners use only 1 product, followed by 2, 3 and 4 products.
 
 - **Churn Factors**
   - Credit score: Customers with scores <400 have 100% churn rate; score groups of 400 and above have 19-21% churn rate
   - Income level: Highest churn rate (22%) among very high income (>150k/year), lowest (20%) among middle income (50-100k/year).
   - Age: Highest churn rate (37%) among middle-aged (40-59 years), lowest (6%) among teenagers (<20 years)
-  - Product: Customers using products 3 and 4 have high churn rates.
+  - Product: Customers using 3 to 4 products have high churn rates from 83 to 100%.
 
 ### Possible Causes for High Churn Rates in Some Groups
 
@@ -45,9 +45,10 @@ Bank Customer Churn Analysis. Made with Power BI.
    - Active engagement with customers could be a key factor in retention.
    - Implement strategies to increase customer engagement and activity.
 
-5. **Product 3 and 4 Usage Leading to Higher Churn**
-   - These products may not meet customer expectations or needs.
-   - Review and possibly redesign or discontinue these products to reduce churn.
+5. **Higher Numbers of Products Used Leading to Higher Churn**
+   - Customers using multiple products might experience dissatisfaction with product integration.
+   - The redundancy between products could lead to a lack of benefits from customer's side.
+   - Streamlining product offerings and improving the user experience across multiple products could reduce churn.
 
 6. **Credit Score Influence**
    - High churn among low credit score customers might indicate financial instability or dissatisfaction.
@@ -66,9 +67,11 @@ Bank Customer Churn Analysis. Made with Power BI.
 1. **Credit Card Offerings**
    - With 70% of customers owning credit cards, the bank's credit card products are clearly popular and widely adopted. The bank should continue promoting these offerings, possibly introducing tiered benefits to cater to different customer segments.
 
-2. **Product 1 and 2 Engagement**
-   - Product 1 has the highest number of uses, indicating it meets customer needs effectively. The bank should continue enhancing and promoting this product to maintain high usage rates and customer satisfaction.
-   - Product 2 has the lowest churn rate, so the bank should focus on promoting it to a broader customer base to help reduce overall churn.
+2. **Encourage Customers to Sign Up for Only 1 or 2 Products**
+   - Customers with a single product or 2 products have the highest retention rates.
+   - Promoting the benefits of maintaining a simpler portfolio can enhance customer satisfaction and reduce churn.
+   - Focus on retaining customers with 2 products, as they show the lowest churn rates, suggesting optimal satisfaction and engagement.
 
 3. **Middle Income Customer Retention**
-   - Middle-income customers have the lowest churn rate at 20%, which suggests that the bank's services and products are well-suited to this demographic. The bank should continue focusing on maintaining and enhancing value for middle-income customers, ensuring their needs and expectations are consistently met.
+   - Middle-income customers have the lowest churn rate at 20%, which suggests that the bank's services and products are well-suited to this demographic.
+   - Continue focusing on maintaining and enhancing value for middle-income customers, ensuring their needs and expectations are consistently met.
