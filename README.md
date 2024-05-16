@@ -27,7 +27,7 @@ Bank Customer Churn Analysis. Made with Power BI.
   - Age: Highest churn rate (37%) among middle-aged (40-59 years), lowest (6%) among teenagers (<20 years)
   - Product: Customers using products 3 and 4 have high churn rates, even though these products are less frequently used.
 
-### Suggestions on Outcomes
+### Possible Causes for High Churn Rates in Some Groups
 
 1. **High Female Churn Rate**
    - Possible dissatisfaction with products or services tailored for female customers.
