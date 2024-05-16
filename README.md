@@ -1,6 +1,8 @@
 # bank_customer_churn_pbi
 Bank Customer Churn Analysis. Made with Power BI.
 
+## [Bank Customer Churn Analysis Dashboard](https://github.com/hani-suraya/bank_customer_churn_pbi/blob/main/customer_churn_dashboard.pdf)
+
 ### Summary of Bank Customer Churn Analysis
 
 - **Customer Demographics**
